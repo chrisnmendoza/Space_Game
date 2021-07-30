@@ -1,1 +1,1 @@
-Uses the Raspberry Pi and Sensehat attachment
+Uses the Raspberry Pi and Sense Hat attachment
